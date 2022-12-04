@@ -1,0 +1,6 @@
+build/
+install/
+library/build/
+user/build/
+library/vendor/
+library/lib/
